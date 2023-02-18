@@ -1,0 +1,37 @@
+body {
+    background-color: ghostwhite;
+}
+.container {
+    height: 750px;
+    margin: 80px auto;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 0px 2px 63px 0px rgba(0,0,0,0.13);
+}
+img {
+    object-fit: fill;
+}
+
+/*Daftar Style */
+.loginContainer {
+    height: 720px;
+}.checkbox {
+    margin-left: 75px;
+}input {
+    height: 50px;
+}.email {
+    margin-top: 50px;
+}p {
+    margin-left: 150px;
+}.daftar {
+    font-size: 20px;
+    padding: 10px;
+    background-color: #9000d4;
+    background: linear-gradient(353deg, #9000d4 0%, #ff7c89 100%);
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s;
+}.daftar:hover {
+    transition: 0.5s;
+    border-radius: 30px;
+}

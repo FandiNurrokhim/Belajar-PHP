@@ -1,0 +1,23 @@
+body{
+    background-color: ghostwhite;
+}
+.container {
+    margin-top: 50px;
+    height: 750px;
+    box-shadow: 0px 2px 63px 0px rgba(0,0,0,0.13);
+}.email {
+    margin-top: 100px;
+}p {
+    margin-left: 70px;
+}.masuk {
+    font-size: 20px;
+    padding: 10px;
+    background-color: #9000d4;
+    background: linear-gradient(353deg, #9000d4 0%, #ff7c89 100%);
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s;
+}.masuk:hover {
+    transition: 0.5s;
+    border-radius: 30px;
+}
